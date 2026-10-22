@@ -1,8 +1,8 @@
-# Centring and band labelling shape frequency connectedness
+# Centring and band labelling shape TVP-VAR frequency connectedness: Evidence from crypto volatility
 
 Replication code for:
 
-> Zhang, Z., Ibrahim, H. *Centring and band labelling shape frequency connectedness.* Manuscript submitted to *Finance Research Letters*.
+> Zhang, Z., Ibrahim, H. *Centring and band labelling shape TVP-VAR frequency connectedness: Evidence from crypto volatility.* Manuscript submitted to *Finance Research Letters*.
 
 The frequency decomposition of TVP-VAR connectedness (Diebold–Yilmaz; Baruník–Křehlík; Antonakakis et al.) is widely used to attribute spillovers to short- and long-term horizons. We show that two defaults of the R package [ConnectednessApproach](https://cran.r-project.org/package=ConnectednessApproach) shape that decomposition:
 - full-sample centring before a zero-intercept TVP-VAR;
